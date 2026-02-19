@@ -4,8 +4,8 @@ Course: Artificial Intelligence
 Assignment: Design and Implementation of a Minimax Game-Playing Agent
 Instructor: Dr. Natnael Argaw Wondimu
 
-Student: [Your Name Here]
-ID: [Your ID Here]
+Student:Selamawit Siferh
+ID: GSE/6879/18
 
 Game: Tic-Tac-Toe
 """
