@@ -1,3 +1,10 @@
+
+
+### College of Built Environment and Engineering
+### Department of Artificial Intelligence
+### Assignment: Design and Implementation of a Minimax Game-Playing Agent
+###  Student Name:Selamawit Siferh
+### Student ID: GSE/6879/18
 # Tic-Tac-Toe AI Agent (Minimax)
 
 ## Overview
